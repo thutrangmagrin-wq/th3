@@ -3,7 +3,7 @@
 ## Thông tin sinh viên
 
 **Họ và tên:** Đỗ Quỳnh Thu Trang  
-**MSSV:** [Điền MSSV của bạn vào đây]
+**MSSV:** 23810310379
 
 ---
 
@@ -147,34 +147,31 @@ nectar-app/
 ## Screenshots
 
 ### 1. Splash Screen
-![Splash Screen](./screenshots/splash.png)
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/54736465-785b-42ff-bd38-36508057a47e" />
+
 *Màn hình mở đầu với logo Nectar*
 
 ### 2. Onboarding Screen
-![Onboarding](./screenshots/onboarding.png)
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/11c479ce-7bd7-463f-b08a-57d3f4a0c32f" />
+
 *Màn hình giới thiệu ứng dụng*
 
 ### 3. Sign In Screen
-![Sign In](./screenshots/signin.png)
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/3bc2b3ac-1841-46c3-9300-5b472503c097" />
+
 *Màn hình đăng nhập*
 
 ### 4. Sign Up Screen
-![Sign Up](./screenshots/signup.png)
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/34012d52-7aff-4def-b1c6-c435a3bc670e" />
+
 *Màn hình đăng ký*
 
 ---
 
 ## Video Demo
+https://res.cloudinary.com/dhnrlnoee/video/upload/v1775918157/7715806912351_ze5woj.mp4
 
-### Link video demo:
-[Thêm link video YouTube/Google Drive của bạn vào đây]
-
-### Hoặc xem video trong thư mục:
-`./demo/nectar-app-demo.mp4`
-
----
-
-## Lưu ý
+## 
 
 - App hiện tại chỉ có UI, chưa kết nối backend thật
 - Social login (Google/Facebook) là mock, chưa implement OAuth
@@ -187,43 +184,3 @@ nectar-app/
 
 ---
 
-## Troubleshooting
-
-### App không chạy?
-```bash
-# Clear cache và restart
-npm start -- --clear
-```
-
-### Lỗi dependencies?
-```bash
-# Xóa node_modules và cài lại
-rm -rf node_modules
-npm install
-```
-
-### Ảnh không hiển thị?
-```bash
-# Restart Metro bundler
-npm start -- --clear
-```
-
----
-
-## Liên hệ
-
-**Sinh viên:** Đỗ Quỳnh Thu Trang  
-**Email:** [email của bạn]  
-**Lớp:** [tên lớp]  
-**Môn học:** [tên môn học]
-
----
-
-## License
-
-Dự án này được tạo cho mục đích học tập.
-
----
-
-*Cảm ơn thầy/cô đã xem! 🥕*
-"# th3" 
