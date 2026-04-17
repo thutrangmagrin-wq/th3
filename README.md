@@ -164,6 +164,15 @@ nectar-app/
 ### 4. Sign Up Screen
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/34012d52-7aff-4def-b1c6-c435a3bc670e" />
 
+
+
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a7c983e0-fb75-4f02-84ec-7ca745242c22" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/314b2d87-1314-403e-901a-fc01bea780f6" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/46a4af12-c4f3-4b14-aa39-cff0a820b994" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/4993ae1b-9b79-4166-845c-82e7cf1e9697" />
+
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/4cff4df6-34ac-4fed-9797-c62ad8422abf" />
+
 *Màn hình đăng ký*
 
 ---
